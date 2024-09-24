@@ -1,4 +1,5 @@
 Einstein Bros Bagels Food Court at UMBC:
+
 Data from this food court collected manually and segregated into different types, such as
 i) Egg Sandwiches
 ii) Lunch Sandwiches
