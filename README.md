@@ -10,4 +10,6 @@ vi) Bagels
 vii) Snacks
 viii) Meal Deal food options
 
-Web scraping not done for Einstein Bros Bagels from "https://dineoncampus.com/UMBC", as the food data in this website is available is not the updated one, and hence data collected manually for this food court.
+Web scraping not done for Einstein Bros Bagels from "https://dineoncampus.com/UMBC", as the food data in this website available is not the updated one, and hence data collected manually for this food court.
+
+Other food courts data web scraped from this website and the additional data required for further work entered manually.
