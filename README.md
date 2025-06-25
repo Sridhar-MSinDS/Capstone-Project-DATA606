@@ -3,7 +3,7 @@ Einstein Bros Bagels Food Court at UMBC:
 Data from this food court collected manually and segregated into different types, such as
 i) Egg Sandwiches
 ii) Lunch Sandwiches
-iii) Grab, Pay and Go
+iii) Grab, Pay and Go items
 iv) Add on items
 v) Drinks
 vi) Bagels
